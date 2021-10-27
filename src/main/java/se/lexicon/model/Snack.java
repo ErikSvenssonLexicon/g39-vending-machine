@@ -35,7 +35,6 @@ public class Snack implements Product{
     @Override
     public void setProductName(String productName) {
         this.snack = productName;
-
     }
 
     @Override
